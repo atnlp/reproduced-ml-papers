@@ -1,2 +1,5 @@
 # reproduced-ml-papers
-Code implementation of some papers in the field of machine learning
+### Cyclical Learning Rates
+- paper: https://arxiv.org/pdf/1506.01186.pdf
+
+> Cyclical Learning Rates for Training Neural Networks 
